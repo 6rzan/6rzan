@@ -372,11 +372,11 @@ No completed certification is listed on this profile. Credentials appear here on
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:7C3AED,100:1E1B4B&height=3" width="100%" alt=""/>
 
-## Contribution Activity
+## 3D Contributions
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=6rzan&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=6366F1&area=true&area_color=4F46E5&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="100%"/>
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%"/>
 
 </div>
 
@@ -387,6 +387,16 @@ No completed certification is listed on this profile. Credentials appear here on
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/6rzan/6rzan/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:7C3AED,100:1E1B4B&height=3" width="100%" alt=""/>
+
+## Pac-Man Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/6rzan/6rzan/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution game" width="100%"/>
 
 </div>
 
@@ -434,7 +444,7 @@ open_to:
 
 <div align="center">
 
-**Build useful systems. Learn the fundamentals. Keep building.**
+**Build useful systems. Learn the fundamentals. Keep the profile honest.**
 
 <img src="assets/footer.svg" width="100%" alt=""/>
 
