@@ -346,7 +346,7 @@ No completed certification is listed on this profile. Credentials appear here on
 <div align="center">
 
 <a href="https://github.com/6rzan"><img src="https://img.shields.io/badge/GitHub-6rzan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>&nbsp;
-<a href="https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google"><img src="https://img.shields.io/badge/Kaggle-AI%20Agents%20Intensive-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle AI Agents Intensive"/></a>&nbsp;
+<a href="https://www.kaggle.com/tahafahdthabit"><img src="https://img.shields.io/badge/Kaggle-tahafahdthabit-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile"/></a>&nbsp;
 <a href="https://github.com/6rzan?tab=repositories"><img src="https://img.shields.io/badge/Academic%20Projects-Repository%20List-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Academic Projects Repository List"/></a>
 
 </div>
@@ -424,6 +424,7 @@ open_to:
 
 <a href="mailto:tahafahd40@gmail.com"><img src="https://img.shields.io/badge/Gmail-tahafahd40%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/taha-thabit/"><img src="https://img.shields.io/badge/LinkedIn-taha--thabit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://www.kaggle.com/tahafahdthabit"><img src="https://img.shields.io/badge/Kaggle-tahafahdthabit-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>&nbsp;
 <a href="https://github.com/6rzan"><img src="https://img.shields.io/badge/GitHub-6rzan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
 <a href="https://github.com/6rzan?tab=repositories"><img src="https://img.shields.io/badge/Projects-Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
 
@@ -433,7 +434,7 @@ open_to:
 
 <div align="center">
 
-**Build useful systems. Learn the fundamentals.**
+**Build useful systems. Learn the fundamentals. Keep building.**
 
 <img src="assets/footer.svg" width="100%" alt=""/>
 
