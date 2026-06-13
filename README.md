@@ -444,7 +444,7 @@ open_to:
 
 <div align="center">
 
-**Build useful systems. Learn the fundamentals. Keep the profile honest.**
+**Build useful systems. Learn the fundamentals. Keep building.**
 
 <img src="assets/footer.svg" width="100%" alt=""/>
 
