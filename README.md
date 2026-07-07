@@ -361,12 +361,12 @@ No completed certification is listed on this profile. Credentials appear here on
 
 <br/><br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=6rzan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6rzan&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats-mu-eight-27.vercel.app/api?username=6rzan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats-mu-eight-27.vercel.app/api/top-langs/?username=6rzan&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=6rzan&hide_border=true&background=0D1117&stroke=312E81&ring=8B5CF6&fire=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=6B7280" alt="GitHub streak"/>
+<img src="https://YOUR-STREAK-INSTANCE.vercel.app/?user=6rzan&hide_border=true&background=0D1117&stroke=312E81&ring=8B5CF6&fire=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=6B7280" alt="GitHub streak"/>
 
 </div>
 
