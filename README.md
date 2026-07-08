@@ -369,6 +369,9 @@ No completed certification is listed on this profile. Credentials appear here on
 <img src="https://github-readme-streak-stats-woad-three.vercel.app/?user=6rzan&hide_border=true&background=0D1117&stroke=312E81&ring=8B5CF6&fire=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=6B7280" alt="GitHub streak"/>
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:7C3AED,100:1E1B4B&height=3" width="100%" alt=""/>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:7C3AED,100:1E1B4B&height=3" width="100%" alt=""/>
 
