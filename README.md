@@ -3,7 +3,7 @@
 <img src="assets/header.svg" width="100%" alt="Taha Fahd"/>
 
 <a href="https://github.com/6rzan">
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=18&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=IT+Support+%C2%B7+Software+Development+%C2%B7+AI+Agents;Computer+Science+%C2%B7+Asia+Pacific+University;Customer-facing+property+work+since+2023;Studying+for+CCNA" alt="IT Support · Software Development · AI Agents"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=18&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=Software+Development+%C2%B7+AI+Agents+%C2%B7+IT+Support;Computer+Science+%C2%B7+Asia+Pacific+University;Customer-facing+property+work+since+2023;Studying+for+CCNA" alt="Software Development · AI Agents · IT Support"/>
 </a>
 
 <img src="https://img.shields.io/badge/Location-Kuala%20Lumpur%2C%20Malaysia-5B21B6?style=flat-square" alt="Kuala Lumpur, Malaysia"/>
@@ -23,7 +23,7 @@
 
 ## About
 
-I fix laptops and network problems, build software, and deal with customers every day. My IT support experience comes from a corporate internship at Pacific Inter-Link. For nearly three years I have also worked part-time for a co-living rental business, where I handle tenants, viewings, rent and renovation work. I build full-stack and AI applications in TypeScript, Python, Java and Rust.
+I build full-stack and AI applications in TypeScript, Python, Java and Rust: an AI help desk agent for my final year project, a multi-agent debate app, and a booking and operations platform for a car rental company. I also have IT support experience from a corporate internship at Pacific Inter-Link, and for nearly three years I have worked part-time for a co-living rental business, where I handle tenants, viewings, rent and renovation work.
 
 I finished my Computer Science studies at Asia Pacific University (APU) in 2026; the degree certificate is pending.
 
@@ -48,6 +48,7 @@ I finished my Computer Science studies at Asia Pacific University (APU) in 2026;
 | [AI Help Desk Agent](https://github.com/6rzan/ai-helpdesk-agent) | Final Year Project. Turns a plain-language IT problem into a classified ticket with step-by-step troubleshooting. Automated fixes run only from a default-deny whitelist, with user consent, staff approval for changes and an audit trail. | TypeScript, React, Express, MongoDB |
 | [The Council](https://github.com/6rzan/The-Council) | Multi-agent app: recruits an expert panel, debates a question, fact-checks claims against Wikipedia through MCP and streams a cited verdict. 79 offline tests. | Python, Google ADK, MCP |
 | [Real-Time Data Pipeline](https://github.com/6rzan/Real-Time-System-project) | The live Wikipedia Recent Changes stream processed in Tokio async and in standard threads, benchmarked on tail latency and jitter. Zero-copy parsing cut parser heap usage about 60 times. | Rust, Tokio, Criterion |
+| Matrix Car Rental *(private)* | One platform for a Malaysian car rental company: public booking site, customer portal and dashboards for reservations, accounts, garage staff, drivers and investors. Pricing engine, WhatsApp OTP login, vehicle check-in/out, double-entry accounting. | TypeScript, Next.js, PostgreSQL, Prisma |
 | BridgeAbility *(private, team of 4)* | Booking platform for accessibility services in Malaysia. I built the requester side; it runs on Elastic Beanstalk with RDS, DynamoDB and S3. | Node.js, Express, AWS |
 | [SwiftCart](https://github.com/6rzan/SwiftCart-CPP) | Warehouse simulation: 600 orders through concurrent picking, packing and dispatch stages. Written in Java despite the repo name. | Java |
 | [Aetheria: The Last Stand](https://github.com/6rzan/Aetheria_The-Last-Stand.pygame) | Tower-defence game with enemy waves and three tower types. | Python, Pygame |
@@ -56,13 +57,13 @@ I finished my Computer Science studies at Asia Pacific University (APU) in 2026;
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,java,rust,react,nodejs,express,mongodb,mysql,docker,linux,bash,git,aws&perline=15" alt="TypeScript, JavaScript, Python, Java, Rust, React, Node.js, Express, MongoDB, MySQL, Docker, Linux, Bash, Git, AWS"/>
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,rust,react,nextjs,nodejs,express,postgres,prisma,mongodb,mysql,docker,linux,bash,git,aws&perline=18" alt="TypeScript, JavaScript, Python, Java, Rust, React, Next.js, Node.js, Express, PostgreSQL, Prisma, MongoDB, MySQL, Docker, Linux, Bash, Git, AWS"/>
 
 </div>
 
-- **IT support:** hardware and software troubleshooting, laptop setup, security patching, connectivity checks, cable mapping
-- **Networking:** switching, STP, LAG, routing basics, subnetting
 - **AI:** LLM apps, multi-agent systems, MCP, Ollama, n8n
+- **IT support:** hardware and software troubleshooting, laptop setup, security patching, connectivity checks
+- **Networking:** switching, STP, LAG, routing basics, subnetting
 
 ## Training and Certifications
 
