@@ -74,7 +74,7 @@ I finished my Computer Science studies at Asia Pacific University (APU) in 2026;
 | [AI Fluency for Builders](https://academy.claude.com/verify/9021f08cfe7353f17026bd81976d15bd) | Claude Academy | Oct 2026 |
 | [AI Fluency: Framework and Foundations](https://academy.claude.com/verify/a688879ae943435b3881e766de5fcb7e) | Claude Academy | Oct 2026 |
 | [Building Effective Human-Agent Teams](https://academy.claude.com/verify/a8fe42ed0f7d541d424edfb9cbadf369) | Claude Academy | Oct 2026 |
-| 5-Day AI Agents: Intensive Vibe Coding Course, badge | Kaggle and Google | Jul 2026 |
+| [5-Day AI Agents: Intensive Vibe Coding Course](https://www.kaggle.com/certification/badges/tahafahdthabit/108), badge | Kaggle and Google | Jul 2026 |
 | [Memory for AI Applications](https://www.credly.com/go/dNSUArpT) | MongoDB | Jun 2026 |
 | Red Hat System Administration I (RH124), certificate of attendance | Red Hat course, APIIT | Jan 2025 |
 
